@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zengwei497/npm-test.git"
+    "url": "git+https://github.com/zengwei497/npm-test-tmd.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zengwei497/npm-test/issues"
+    "url": "https://github.com/zengwei497/npm-test-tmd/issues"
   },
-  "homepage": "https://github.com/zengwei497/npm-test#readme",
+  "homepage": "https://github.com/zengwei497/npm-test-tmd#readme",
   "dependencies": {
     "zengweiwei":"1.0.0",
     "xiaosh-tt": "1.0.0",
