@@ -1,6 +1,6 @@
 {
   "name": "npm-test-tmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zengwei497/npm-test-tmd.git"
+    "url": "git+https://github.com/zengwei497/npm-test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zengwei497/npm-test-tmd/issues"
+    "url": "https://github.com/zengwei497/npm-test/issues"
   },
-  "homepage": "https://github.com/zengwei497/npm-test-tmd#readme",
+  "homepage": "https://github.com/zengwei497/npm-test#readme",
   "dependencies": {
     "zengweiwei":"1.0.0",
     "xiaosh-tt": "1.0.0",
