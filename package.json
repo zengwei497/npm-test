@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-tmd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/zengwei497/npm-test/issues"
   },
-  "homepage": "https://github.com/zengwei497/npm-test#readme"
+  "homepage": "https://github.com/zengwei497/npm-test#readme",
+  "dependencies": {
+    "zengweiwei":"1.0.0",
+    "xiaosh-tt": "1.0.0",
+    "teaa-dili":"1.0.0"
+  }
 }
